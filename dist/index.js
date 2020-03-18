@@ -391,7 +391,7 @@ var ImageCarousel = (function(_React$Component) {
               React.createElement(
                 reactNative.Text,
                 { style: styles.closeText },
-                _this.props.customTextClose || "Close"
+                "Fermer"
               )
             )
           );
